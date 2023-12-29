@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Miao Wang</h1>
+<h1 align="center">Hi 👋, there!</h1>
 <h3 align="center">a software engineer, passionate about coding, signal processing and machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludlows&label=Profile%20views&color=0e75b6&style=flat" alt="ludlows" /> </p>
@@ -10,7 +10,6 @@
 
 - 👯 I’m looking to collaborate on **signal processing** & **machine learning**
 - 💬 Ask me about audio signal processing and machine learning
-- 📫 How to reach me: github account name at hotmail.com
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ludlows&show_icons=true&locale=en" alt="ludlows" /></p>
 
